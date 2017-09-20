@@ -1,0 +1,28 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://doug919.github.io
+title: I-Ta Lee
+email: lee2226@purdue.edu
+author: I-Ta Lee
+description: > # "Write an awesome description for your new site here. 
+  I-Ta Lee's personal website.
+copyright: 'Copyright &copy; 2017 I-Ta Leee. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/i-ta-lee-ab753172/
