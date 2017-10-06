@@ -39,7 +39,7 @@ permalink: /experience
 # Work in Academia
 ---
 - *Teaching Assistant* @[PurdueCS](https://www.cs.purdue.edu/)
-  - Head TA of **Deep Learning** (Graduate Level)
+  - Head TA in **Deep Learning**
     - 2017, Fall
   - TA in **Objective-Oriented Programming in Java**
     - 2017, Spring
