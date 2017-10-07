@@ -4,7 +4,7 @@ title: Man is to computer programmer as woman is to homemaker? Debiasing word em
 category: papernotes
 ---
 
-# Paper Notes
+## Paper Notes
 
 > Bolukbasi, Tolga, et al. "Man is to computer programmer as woman is to homemaker? Debiasing word embeddings." Advances in Neural Information Processing Systems. 2016.
 
@@ -13,7 +13,7 @@ category: papernotes
 
 ---
 
-## Contributions
+### Contributions
 - Eliminate gender biases in word embeddings
   - Remove `Receptionist-Female`; gender neutral words
   - Keep `Queen-Female`; generder specific words
@@ -21,16 +21,16 @@ category: papernotes
 - Algorithm to "debias"
 ---
 
-## Examples
+### Examples
 > man - woman = compupter_programmer - homemaker
 ---
 
-## Details
+### Details
 - wordvec on Google News, 300d
 - GloVe is tested and described in Appendix
 ---
 
-## Methods
+### Methods
 - Gender occupation stereotype exists!
   - M-Turk
 - Analogies
@@ -47,5 +47,5 @@ category: papernotes
 - Human evaluation
 
 ---
-## Interesting Related Work
+### Interesting Related Work
 1. Zhao, Jieyu, et al. "Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints." arXiv preprint arXiv:1707.09457 (2017).
