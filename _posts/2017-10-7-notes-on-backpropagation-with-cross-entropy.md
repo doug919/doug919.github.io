@@ -7,11 +7,11 @@ category: papernotes
 ## Overview
 ---
 
-This note introduces backpropagation for a common neural network
-multi-class classifier. Specifically, the network has $$L$$ layers with
+This note introduces backpropagation for a common neural network, or a
+multi-class classifier. Specifically, the network has $$L$$ layers, containing
 Rectified Linear Unit (ReLU) activations in hidden layers and Softmax in
 the output layer. Cross Entropy is used as the objective function to
-measure prediction errors.
+measure training loss.
 
 ## Notations and Definitions
 ---
@@ -19,10 +19,10 @@ measure prediction errors.
 ![Notation
 Visualization]({{ "/images/posts/notes_backprop.png" | absolute_url }})
 
-The above figure  visualizes the network architecture with notations used in this note. Explanations are listed below:
+The above figure = visualizes the network architecture with notations that you will see in this note. Explanations are listed below:
 -   $$L$$ indicates the last layer.
 
--   $$l$$ indicates a specific layer. It could be equal to $$L$$, e.g.,
+-   $$l$$ indicates a specific layer. It could be equal to $$L$$, i.e.,
     $$l-1=L-1$$, but not always the case.
 
 -   The subscript $$k$$ usually denotes neuron indices in the ouptut layer
@@ -37,14 +37,14 @@ The above figure  visualizes the network architecture with notations used in thi
 
       $$ \begin{equation} \label{eq:z} z_k^l = b_k^l + \sum_{j} W_{kj}^{l} a_j^{l-1} \end{equation}$$
 
--   $$a_k^l$$ is an activation. \\(a_k^l = f(z_k^l)\\), where $$f(.)$$ is the activation function. In this note, we assume that the last layer uses a softmax \\[a_k^L = softmax(z_k^L) = \frac{e^{z_k^L}}{\sum_{c} e^{z_c^L}}\\]
+-   $$a_k^l$$ refers to neuron activations, \\(a_k^l = f(z_k^l)\\), where $$f(.)$$ is the activation function. In this note, we assume that the last layer uses a softmax \\[a_k^L = softmax(z_k^L) = \frac{e^{z_k^L}}{\sum_{c} e^{z_c^L}}\\]
 , and the hidden layers use ReLU
 \\[a_k^l = relu(z_k^l) = \max(0, z_k^l)\\]
 
 -   $$t_k$$ is the gold probability for the $$k^{th}$$ neuron in the output
-    layer. It is usually one-hot encoded.
+    layer. It is one-hot encoded.
 
--   $$E$$ is the output error for an input example. We use Cross Entropy,
+-   $$E$$ is the output error measured on one input example. We use Cross Entropy,
     which is defined as below
 
     $$
@@ -56,12 +56,11 @@ The above figure  visualizes the network architecture with notations used in thi
 ## Gradient Descent
 ---
 
-To update weight matrices $$W_{kj}^l$$, variants of gradient descent
-algorithms are applied. All of them have a common update rule, which is
+Variants of gradient descent algorithms can be applied to update weight matrices $$W_{kj}^l$$. Here we use the most common update rule, which is
 \\(\Delta W \propto -\frac{\partial E}{\partial W}\\). In the simpliest
 case, a learning rate $$\epsilon$$ is used to control the step size and we
 can calculate the derivatives using Chain Rule, so the update rule can
-be re-written as
+be written as
 \\[\Delta W_{kj}^l = - \epsilon \frac{\partial E}{\partial a_{k}^l} = - \epsilon \frac{\partial E}{\partial a_{k}^l} \frac{\partial a_{k}^l}{\partial z_{k}^l} \frac{\partial z_{k}^l}{\partial W_{kj}^l}\\]
 
 ## Backpropagation
