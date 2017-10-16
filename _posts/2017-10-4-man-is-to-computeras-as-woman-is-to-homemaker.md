@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Man is to computer programmer as woman is to homemaker? Debiasing word embeddings
-category: papernotes
+category: researchnotes
 ---
 
 ## Paper Notes

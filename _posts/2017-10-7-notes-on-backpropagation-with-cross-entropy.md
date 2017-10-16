@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes on Backpropagation with Cross Entropy
-category: papernotes
+category: researchnotes
 ---
 
 ## Overview

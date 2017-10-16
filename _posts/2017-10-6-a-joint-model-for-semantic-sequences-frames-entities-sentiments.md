@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Joint Model for Semantic Sequences Frames, Entities, Sentiments
-category: papernotes
+category: researchnotes
 ---
 
 ## Paper Notes
