@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Practical Guide for Deep Learning
+title: Hyperparameter Tuning
 category: researchnotes
 ---
 
@@ -9,13 +9,13 @@ The reference [1] has thorough explanations. Here I only note the things that I 
 ## Gradient Checks
 
 - Compare the analytical and numerical gradients.
-\[
+\\[
   \frac{d f(x)}{dx} = \frac{f(x+h) - f(x-h)}{2h}
-\]
+\\]
 - use relative error for the comparison
-\[
+\\[
   \frac{|f'_a - f'_n|}{max(|f'_a|, |f'_n|)}
-\]
+\\]
 errors under 1e-4 usually means it's good.
 
 ## Learning Process
