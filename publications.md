@@ -5,7 +5,7 @@ permalink: /publications
 ---
 
 
-- I-Ta Lee and Dan Goldwasser, "FEEL: Featured Event Embedding Learning," AAAI 2018 (oral) [[pdf](/download/aaai-18-camera.pdf)] [[slides](/download/aaai18_feel_final.pdf)]
+- I-Ta Lee and Dan Goldwasser, "FEEL: Featured Event Embedding Learning," AAAI 2018 (oral) [[pdf](/download/aaai-18-camera.pdf)] [[slides](/download/aaai18_feel_final.pdf)] <span style="color:darkred">[Oral Presentation; acceptance rate: 417/3800 (10.9%)]</span>
 - Kristen Johnson, I-Ta Lee, and Dan Goldwasser, “Ideological Phrase Indicators for Classification of Political Discourse Framing on Twitter,” NLP+CSS 2017
 - I-Ta Lee, et al., “PurdueNLP at SemEval-2017 task 1: Predicting Semantic Textual Similarity with Paraphrase and Event Embeddings,” Proc. Of SemEval 2017
 - Maria L. Pacheco, I-Ta Lee, Xiao Zhang, A. K. Zehady, P. Daga, Di Jin, A. Parolia, and D. Goldwasser, “Adapting Event Embeddings for Implicit Discourse Relation Recognition,” CONLL 2016
