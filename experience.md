@@ -23,6 +23,10 @@ permalink: /experience
 
 # Work in Industries
 ---
+- *Machine Learning Engineer Intern* @[Facebook](https://www.facebook.com)
+  - Facebook, Menlo Park, CA
+  - May 2019 - August 2019
+  - Purchase Intent Modeling and Visualization
 - *Research Intern* @[HPE](https://www.hpe.com/us/en/home.html)
   - Hewlett Packard Enterprise, Sunnyvale, CA
   - May 2017 - August 2017
