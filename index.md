@@ -9,6 +9,6 @@ I am a third-year Ph.D student at Department of Computer Science at Purdue Unive
 
 The specific research topic that I am working on is Statistical Script Learning. It aims at building statistical models that capture "Common Sense" through text event distributions, and is capable of predicting "what happens next." In other words, given some events happened in the past, can machines infer future events with common sense? Imagine that your Siri can guess what you want while assisting you. I am enthusiastically interested in connecting NLP with such kind of real world applications!
 
-### My CV
+### My Resume
 
 [Download](/download/resume.pdf)
