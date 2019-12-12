@@ -42,6 +42,10 @@ permalink: /experience
 
 # Work in Academia
 ---
+- *Research Assistant* @[PurdueNLP](https://www.cs.purdue.edu/homes/dgoldwas/)
+  - Natural Language Processing and Common Sense Reasoning
+  - August 2015 - Now
+  - Advisor: [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/)
 - *Teaching Assistant* @[PurdueCS](https://www.cs.purdue.edu/)
   - Head TA in **Deep Learning**
     - 2017, Fall
@@ -54,4 +58,6 @@ permalink: /experience
 - *Research Assistant* @[AcademiaSinica](http://www.iis.sinica.edu.tw/)
   - Academia Sinica, Taipei, Taiwan
   - Natural Language Processing Lab at Institute of Information Science
+  - Emotion Analysis
+  - January 2015 - July 2015
   - Advisor: [Lun-Wei Ku](http://www.iis.sinica.edu.tw/pages/lwku/index_en.html)
