@@ -64,5 +64,5 @@ permalink: /experience
 
 # Paper Reviewing
 ---
-- @[*SEM 2019](http://starsem.org/2019/)
+- [*SEM 2019](http://starsem.org/2019/)
   - co-located with NAACL 2019
