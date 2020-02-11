@@ -64,5 +64,7 @@ permalink: /experience
 
 # Paper Reviewing
 ---
-- [*SEM 2019](http://starsem.org/2019/)
+-[ACL 2020](https://acl2020.org/)
+  - Track: Semantics: Textual Inference and Other Areas of Semantics
+-[*SEM 2019](http://starsem.org/2019/)
   - co-located with NAACL 2019
