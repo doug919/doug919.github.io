@@ -19,6 +19,7 @@ permalink: /experience
 - *BS*, Computer Science and Engineering
   - Yuan Ze University, Taoyuan, Taiwan
   - September 2004 - June 2008
+  - Advisor: [Tein-Yaw Chung](https://www.cse.yzu.edu.tw/en/people/professor?name=Tein-Yaw%20Chung)
 
 
 # Jobs in Industries
