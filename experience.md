@@ -21,7 +21,7 @@ permalink: /experience
   - September 2004 - June 2008
 
 
-# Work in Industries
+# Jobs in Industries
 ---
 - *Machine Learning Engineer Intern* @[Facebook](https://www.facebook.com)
   - Facebook, Menlo Park, CA
@@ -40,19 +40,20 @@ permalink: /experience
   - October 2010 - September 2013
   - Embedded Systems, ZigBee, TCP/IP, UART
 
-# Work in Academia
+# Jobs in Academia
 ---
 - *Research Assistant* @[PurdueNLP](https://www.cs.purdue.edu/homes/dgoldwas/)
   - Natural Language Processing and Common Sense Reasoning
   - August 2015 - Now
   - Advisor: [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/)
 - *Teaching Assistant* @[PurdueCS](https://www.cs.purdue.edu/)
-  - Head TA in **Deep Learning**
+  - Head TA of **Deep Learning**
     - 2017, Fall
-  - TA in **Objective-Oriented Programming in Java**
+  - TA of **Objective-Oriented Programming in Java**
+    - 2020, Summer
     - 2017, Spring
     - 2015, Fall
-  - TA in **C Programming**
+  - TA of **C Programming**
     - 2016, Fall
     - 2016, Spring
 - *Research Assistant* @[AcademiaSinica](http://www.iis.sinica.edu.tw/)
