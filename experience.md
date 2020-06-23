@@ -66,5 +66,19 @@ permalink: /experience
 ---
 -[ACL 2020](https://acl2020.org/)
   - Track: Semantics: Textual Inference and Other Areas of Semantics
+
 -[*SEM 2019](http://starsem.org/2019/)
   - co-located with NAACL 2019
+
+# Awards and Scholarships
+---
+- Bilsland Dissertation Fellowship, Purdue University 2020
+
+- Student Scholarship Program, AAAI 2018
+
+- Honorary Member of the Phi Tau Phi Scholastic Honor Society
+
+- Presidential Awards, Yuan Ze University
+
+- Certificate of Outstanding Achievement in IEEE Yuan Ze University Student Branch
+
