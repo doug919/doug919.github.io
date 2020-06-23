@@ -62,7 +62,7 @@ permalink: /experience
   - January 2015 - July 2015
   - Advisor: [Lun-Wei Ku](http://www.iis.sinica.edu.tw/pages/lwku/index_en.html)
 
-# Paper Reviewing
+# Peer Reviews
 ---
 -[ACL 2020](https://acl2020.org/)
   - Track: Semantics: Textual Inference and Other Areas of Semantics
