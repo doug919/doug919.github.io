@@ -64,12 +64,13 @@ permalink: /experience
   - January 2015 - July 2015
   - Advisor: [Lun-Wei Ku](http://www.iis.sinica.edu.tw/pages/lwku/index_en.html)
 
-# Peer Reviews
+# Academic Services
 ---
--[ACL 2020](https://acl2020.org/)
+- Reviewer @ [COLING 2020](https://coling2020.org/)
+  - Track: IE-Text-Mining-KnowledgeGraph
+- Reviewer @ [ACL 2020](https://acl2020.org/)
   - Track: Semantics: Textual Inference and Other Areas of Semantics
-
--[*SEM 2019](http://starsem.org/2019/)
+- Reviewer @ [*SEM 2019](http://starsem.org/2019/)
   - co-located with NAACL 2019
 
 # Awards and Scholarships
