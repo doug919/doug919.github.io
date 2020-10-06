@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications
 ---
 
-- I-Ta Lee, Maria L. Pacheco, and Dan Goldwasser, “Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations,” Findings of EMNLP 2020 [[pdf](/download/emnlp_20.pdf)][[github](https://github.com/doug919/narrative_graph_emnlp2020)] <span style="color:darkred">[Oral Presentation]</span>
+- I-Ta Lee, Maria L. Pacheco, and Dan Goldwasser, “Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations,” Findings of EMNLP 2020 [[pdf](/download/emnlp_20.pdf)][[github](https://github.com/doug919/narrative_graph_emnlp2020)]
 - I-Ta Lee and Dan Goldwasser, “Multi-Relational Script Learning for Discourse Relations,” ACL 2019 [[pdf](https://www.aclweb.org/anthology/P19-1413)][[github](https://github.com/doug919/multi_relational_script_learning)] <span style="color:darkred">[Oral Presentation]</span>
-- I-Ta Lee and Dan Goldwasser, "FEEL: Featured Event Embedding Learning," AAAI 2018 (oral) [[pdf](/download/aaai-18-camera.pdf)] [[slides](/download/aaai18_feel_final.pdf)] <span style="color:darkred">[Oral Presentation; acceptance rate: 417/3800 (10.9%)]</span>
+- I-Ta Lee and Dan Goldwasser, "FEEL: Featured Event Embedding Learning," AAAI 2018 (oral) [[pdf](/download/aaai-18-camera.pdf)] [[slides](/download/aaai18_feel_final.pdf)] <span style="color:darkred">[Oral Presentation]</span>
 - Xiao Zhang, Manish Marwah, I-ta Lee, Martin Arlitt, and Dan Goldwasser, "ACE -- An Anomaly Contribution Explainer for Cyber-Security Applications," IEEE BigData 2019
 - Kristen Johnson, I-Ta Lee, and Dan Goldwasser, “Ideological Phrase Indicators for Classification of Political Discourse Framing on Twitter,” NLP+CSS 2017
 - I-Ta Lee, et al., “PurdueNLP at SemEval-2017 task 1: Predicting Semantic Textual Similarity with Paraphrase and Event Embeddings,” Proc. Of SemEval 2017
