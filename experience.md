@@ -8,7 +8,7 @@ permalink: /experience
 ---
 - *Ph.D.*, Computer Science
   - Purdue University, USA
-  - August 2015 - present
+  - August 2015 - December 2020
   - Natural Language Processing Lab
   - Advisor: [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/)
 - *MS*, Computer Science
