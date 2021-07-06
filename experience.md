@@ -69,6 +69,8 @@ permalink: /experience
 - Reviewer @ [EMNLP 2021](https://2021.emnlp.org/)
   - Track: Semantics: Lexical, Sentence level, Textual Inference and Other areas
   - Track: Sentiment Analysis, Stylistic Analysis, and Argument Mining
+- Reviewer @ [ACL 2021](https://2021.aclweb.org/)
+  - Track: Semantics: Sentence-level Semantics, Textual Inference and Other areas
 - Reviewer @ [NAACL 2021](https://2021.naacl.org/)
   - Track: Semantics: Sentence-level Semantics and Textual Inference
 - Reviewer @ [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
