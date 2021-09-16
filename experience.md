@@ -66,6 +66,8 @@ permalink: /experience
 
 # Academic Services
 ---
+- Reviewer @ [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
+  - Track: Main
 - Reviewer @ [EMNLP 2021](https://2021.emnlp.org/)
   - Track: Semantics: Lexical, Sentence level, Textual Inference and Other areas
   - Track: Sentiment Analysis, Stylistic Analysis, and Argument Mining
