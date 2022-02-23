@@ -66,6 +66,9 @@ permalink: /experience
 
 # Academic Services
 ---
+- Reviewer @ [ACL 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Conference)
+  - Track: Main
+  - Reviewed on ACL Rolling Review (ARR) in the May to November 2022 deadlines.
 - Reviewer @ [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
   - Track: Main
 - Reviewer @ [EMNLP 2021](https://2021.emnlp.org/)
